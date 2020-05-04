@@ -6,7 +6,7 @@ A Data Science walk-through for Customer Churn Prediction Tool-Building.
 
 
 # Relative Links
-Link to the full report: \n
+Link to the full report: <br>
 https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/capstone_project_final_report.pdf
 Link to the ppt slide deck: https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/slides.pptx
 Link to Exploratory Data Analysis: https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/2_Capstone_Project_Exploratory_Data_Analysis.ipynb
