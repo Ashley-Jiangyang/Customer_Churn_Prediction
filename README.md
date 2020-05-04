@@ -10,13 +10,13 @@ Given these challenging industry dynamics, managing customer base to reduces chu
 
 <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/2.png" width="800" height="200">
 
-<img src="hhttps://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/1.png" width="250" height="150"> <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/8.png" width="250" height="150">
-<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/21.png" width="300" height="150">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/1.png" width="270" height="150"> <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/8.png" width="270" height="150">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/21.png" width="270" height="150">
+
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/31.png" width="270" height="150">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/download.png" width="540" height="150">
 
 ![imgage]()
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/1.png)
-![imgage]()
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/download.png)
 
 
 # Relative Links
