@@ -7,10 +7,9 @@ Given these challenging industry dynamics, managing customer base to reduces chu
 
 <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-05%20at%2011.04.21%20PM.png" width="250" height="150"> <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-07%20at%208.49.46%20PM.png" width="250" height="150">
 <img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-06%20at%208.47.43%20PM.png" width="300" height="150">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/2.png" width="800" height="150">
 
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-06%20at%208.47.43%20PM.png)
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-07%20at%208.49.46%20PM.png)
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/2.png)
+![imgage]()
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/1.png)
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/8.png)
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/download.png)
