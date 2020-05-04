@@ -5,10 +5,11 @@ A Data Science walk-through for Customer Churn Prediction Tool-Building.
 # Details
 Given these challenging industry dynamics, managing customer base to reduces churn should be among any senior telecom executive’s highest priorities. In this project, we will use the telecom churn dataset to exploring the product and services dynamic develop a comprehensive view of the customer and link that view to strategy-making recommendations. Furthermore, we will build machine learning models to predict customer behavior, which can be integrated into an agile test-and-learn process to the company to customize offers for different individual microsegments, which will be helpful to improve the customer retention.<br>
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-05%20at%2011.04.21%20PM.png)
-<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-05%20at%2011.04.21%20PM.png" width="100" height="100">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-05%20at%2011.04.21%20PM.png" width="300" height="300">
+<img src="https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-07%20at%208.49.46%20PM.png" width="300" height="300">
 
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-06%20at%208.47.43%20PM.png)
-![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-07%20at%208.49.46%20PM.png=250x250)
+![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/Screen%20Shot%202020-04-07%20at%208.49.46%20PM.png)
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/2.png)
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/1.png)
 ![imgage](https://github.com/Ashley-Jiangyang/Customer_Churn_Prediction/blob/master/pics/8.png)
