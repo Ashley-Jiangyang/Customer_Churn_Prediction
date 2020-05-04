@@ -12,7 +12,7 @@ Link to the ppt slide deck: <br>
 https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/slides.pptx<br>
 Link to Exploratory Data Analysis: <br>
 https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/2_Capstone_Project_Exploratory_Data_Analysis.ipynb<br>
-Link to Survival Analysis:<br>
+Link to Survival Analysis:
 <br>https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/3_Capstone_Project_Survival_Analysis.ipynb<br>
 Link to Machine Learning Modeling: <br>
 https://github.com/Ashley-Jiangyang/Capstone_2_Customer_Churn_Prediction/blob/master/4_Capstone_Project_Logistic_Regression.ipynb<br>
